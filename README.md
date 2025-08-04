@@ -4,7 +4,7 @@
 Este proyecto consiste en un análisis exploratorio de los datos de ventas de una tienda ficticia que se encuentra en varias partes del mundo, dedicada a la venta de equipo de diversos deportes en un periodo de 3 años (del 2012 al 2014).
 
 ## Contenido del repositorio
-- `/Excel/` → Archivo .xlsx con análisis completo
+- `/Excel/` → Analista de precios.xlsx con análisis completo
 - `/data/` → Dataset en formato CSV
 - `README.md` → Este archivo
 
